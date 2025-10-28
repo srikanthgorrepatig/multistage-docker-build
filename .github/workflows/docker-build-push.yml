@@ -27,4 +27,4 @@ on:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/node-docker-demo:latest
+          tags: srikanthawsos/node-docker-demo:latest
